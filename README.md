@@ -22,3 +22,4 @@
 | Confirmation Bias | Psychology |
 | Loss Aversion | Psychology |
 | Emergent Effects | Complex Systems |
+| Circle of Competence | Psychology / Decision Making |
